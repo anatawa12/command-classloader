@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "command-classloader",
+    "name": "Command Classloader",
+    "description": "The mod adds command to load specified class",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/anatawa12/command-classloader",
+    "updateUrl": "",
+    "authorList": [
+      "anatawa12"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
