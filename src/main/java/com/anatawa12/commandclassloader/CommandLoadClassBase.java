@@ -24,7 +24,7 @@ public abstract class CommandLoadClassBase extends CommandBase {
 
         try {
             Class.forName(args[0]);
-        } catch (ClassNotFoundException e) {
+        } catch (Throwable e) {
             e.printStackTrace();
 
             //noinspection NoTranslation
